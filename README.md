@@ -1,6 +1,14 @@
-# neumorphism
+# Music Player UI
 
-A new Flutter project.
+A flutter Ui design for a music player.
+
+This is a Neumorphism styled UI based on DesignCode Design from YouTube
+https://www.youtube.com/watch?v=sx6PD67EOaI&t=18s
+
+
+![Screenshot 2022-03-07 012703](https://user-images.githubusercontent.com/49479389/156949271-184dd0b4-53ff-46d2-a226-ee0ab402e7c6.png)
+
+
 
 ## Getting Started
 
