@@ -1,6 +1,6 @@
 # Music Player UI
 
-A flutter Ui design for a music player.
+A Flutter UI Design for a music player.
 
 This is a Neumorphism styled UI based on DesignCode Design from YouTube
 https://www.youtube.com/watch?v=sx6PD67EOaI&t=18s
